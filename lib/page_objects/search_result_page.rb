@@ -1,0 +1,3 @@
+class SearchResultPage < SitePrismPage
+  
+end
